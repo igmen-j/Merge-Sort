@@ -6,4 +6,4 @@
 -- Enter inputs  
 -- See the created solution.txt file  
   
-- A ready made txt file is also available in this repo
+- A ready made txt file is also available in this repo:  https://github.com/igmen-j/Merge-Sort/blob/master/solution.txt
